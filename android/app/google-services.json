@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853577590570",
+    "project_id": "gdg-promotion-app-dbcdc",
+    "storage_bucket": "gdg-promotion-app-dbcdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853577590570:android:a38f03a5ae453bd822a053",
+        "android_client_info": {
+          "package_name": "com.example.gdg_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpjD_X0TT1rC5Ti5IlxduR1MGrVLgADg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
